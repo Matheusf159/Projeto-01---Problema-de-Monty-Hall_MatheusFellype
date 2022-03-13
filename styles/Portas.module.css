@@ -1,0 +1,14 @@
+.listas {
+    display: flex;
+    justify-content: space-between;
+    width: 73px;
+    margin-right: 30px;
+}
+
+.listas:focus {
+    border:solid 1px rgb(0, 255, 76);
+}
+
+.lista{
+    display: flex;
+}
